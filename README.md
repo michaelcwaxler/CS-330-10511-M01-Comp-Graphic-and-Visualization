@@ -13,11 +13,22 @@ How could tactics from your design approach be applied in future work?
 The tactics I used can be applied to many different fields in the future. These appoarches ensure that the final product meets user expectations, dependable, and powerful. I would also ensure that I was able to create as many usable components that would allow for saved time in future projects.
 
 How do I approach developing programs?
-
+Writing clear, effective code and regularly testing and debugging it to verify functionality are all part of developing programs. Writing modular code, organizing the program's structure, and tracking changes with version control are all part of my approach. In the future, I would also like to include more comments to help anyone viewing the project understand exactly what each step does. 
 
 What new development strategies did you use while working on your 3D scene?
+As I worked on the 3D scene, I used new tactics like texture mapping, complex lighting techniques, and shader programming. Optimizing the polygon count and using low-polygon models without sacrificing visual quality taught me how to effectively manage resources. With the aid of these techniques, a realistic and performance-enhancing 3D scenario was produced.
+
 How did iteration factor into your development?
+An important part of my development approach was iteration. Through constant testing and improvement, I was able to spot problems early, make the objects more realistic, and increase the scene's overall aesthetic appeal. I was able to make little adjustments and make sure that every element of the scene complemented one another through iteration.
+
 How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+My approach to writing code changed as I reached the milestones, becoming more organized and disciplined. I discovered the value of employing modular components, iterating over designs, and planning and designing before coding. This development enabled me to successfully handle the project's complexity.
+
 How can computer science help me in reaching my goals?
+Computer science offers the fundamental abilities and information required to resolve challenging issues, automate processes, and develop original solutions. I can now seek jobs in data science, software development, and game creation thanks to it. Numerous fields and positions can benefit from the logical reasoning and problem-solving abilities acquired through computer science.
+
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+I now have a better grasp of how to make realistic digital landscapes thanks to computational graphics and visualizations, which is crucial for domains like simulation modeling, virtual reality, and game creation. These abilities enable me to produce increasingly complex and captivating projects in advanced computer graphics, animation, and interactive media courses.
+
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+The abilities I've acquired from computational graphics and visualizations allow me to create visually appealing simulations and apps in a work setting. These abilities are useful in fields where visualizations can improve user experience, help comprehend difficult data, and create immersive environments, such entertainment, healthcare, and education. I can further my profession and contribute to creative ventures by using these abilities.
